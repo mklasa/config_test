@@ -1,0 +1,11 @@
+- Cache
+  - Fusion UI
+    - PROD
+      - ALL
+        - Version: 1
+          Key1: Value1
+  - Fusion Server
+    - PROD
+      - ALL
+        - Version: 1
+          Key2: Value2
